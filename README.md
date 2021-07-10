@@ -1,14 +1,49 @@
 # tfmodel
 
-A new Flutter package project.
+A Flutter package helps to show transfer functions properly. It also includes a transfer function component widget.
 
-## Getting Started
+<br/>
+<br/>
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+<img src="./doc/tfmodel.gif" width=250>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<br/>
+<br/>
+<br/>
+
+## Installation
+
+```yaml
+dependencies:
+  tfmodel: <latest_version>
+```
+
+<br/>
+<br/>
+
+## How To Use
+
+```dart
+var tfmodel = TFModel(
+    numerator: "1 0 2.4",
+    denominator: "2.2 -2 0 5.2",
+    showFormatError: false,
+  );
+
+var tfComponent = TFComponent(
+    system: tfmodel,
+    // divider: Divider(),
+    // denominatorTextStyle:  TextStyle(),
+    // numeratorTextStyle: TextStyle(),
+);
+```
+
+<br/>
+<br/>
+<row>
+<img src="./doc/pic1.png" width=200>
+<img src="./doc/pic2.png" width=200>
+</row>
+<br/>
+<br/>
+<br/>
