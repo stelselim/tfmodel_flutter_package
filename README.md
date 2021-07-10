@@ -9,7 +9,6 @@ A Flutter package helps to show transfer functions properly. It also includes a 
 
 <br/>
 <br/>
-<br/>
 
 ## Installation
 
@@ -40,10 +39,9 @@ var tfComponent = TFComponent(
 
 <br/>
 <br/>
-<row>
-<img src="./doc/pic1.png" width=200>
-<img src="./doc/pic2.png" width=200>
-</row>
-<br/>
+<view style="display: flex;">
+    <img src="./doc/pic1.png" style="padding-right: 20px;" width=250/>
+    <img src="./doc/pic2.png" width=250/>
+</view>
 <br/>
 <br/>
