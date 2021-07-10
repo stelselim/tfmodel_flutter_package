@@ -5,7 +5,7 @@ A Flutter package helps to show transfer functions properly. It also includes a 
 <br/>
 <br/>
 
-<img src="./doc/tfmodel.gif" width=250>
+<img src="https://github.com/stelselim/tfmodel_flutter_package/blob/master/doc/tfmodel.gif" width=250>
 
 <br/>
 <br/>
@@ -40,8 +40,8 @@ var tfComponent = TFComponent(
 <br/>
 <br/>
 <view style="display: flex;">
-    <img src="./doc/pic1.png" style="padding-right: 20px;" width=250/>
-    <img src="./doc/pic2.png" width=250/>
+    <img src="https://github.com/stelselim/tfmodel_flutter_package/blob/master/doc/pic1.png" style="padding-right: 20px;" width=250/>
+    <img src="https://github.com/stelselim/tfmodel_flutter_package/blob/master/doc/pic2.png" width=250/>
 </view>
 <br/>
 <br/>
