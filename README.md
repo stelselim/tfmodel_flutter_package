@@ -2,13 +2,7 @@
 
 A Flutter package helps to show transfer functions properly. It also includes a transfer function component widget.
 
-<br/>
-<br/>
-
-<img src="https://github.com/stelselim/tfmodel_flutter_package/blob/master/doc/tfmodel.gif" width=250>
-
-<br/>
-<br/>
+<img alt="gif" heigtht="400" width="220" src="https://raw.githubusercontent.com/stelselim/tfmodel_flutter_package/master/doc/tfmodel.gif">
 
 ## Installation
 
@@ -16,9 +10,6 @@ A Flutter package helps to show transfer functions properly. It also includes a 
 dependencies:
   tfmodel: <latest_version>
 ```
-
-<br/>
-<br/>
 
 ## How To Use
 
@@ -37,11 +28,11 @@ var tfComponent = TFComponent(
 );
 ```
 
-<br/>
-<br/>
 <view style="display: flex;">
-    <img src="https://github.com/stelselim/tfmodel_flutter_package/blob/master/doc/pic1.png" style="padding-right: 20px;" width=250/>
-    <img src="https://github.com/stelselim/tfmodel_flutter_package/blob/master/doc/pic2.png" width=250/>
+
+  <img alt="Screenshot" src="https://raw.githubusercontent.com/stelselim/tfmodel_flutter_package/master/doc/pic1.png" style="padding-right: 20px;" heigtht="400" width="220"/>
+  
+  <img alt="Screenshot" src="https://raw.githubusercontent.com/stelselim/tfmodel_flutter_package/master/doc/pic2.png" heigtht="400" width="220"/>
+    
+    
 </view>
-<br/>
-<br/>
